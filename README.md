@@ -33,13 +33,13 @@ By applying multiple **classification algorithms**, the project aims to build mo
 ---
 
 ## 👥 Group Members
-| No | Name | Matric No |
-|----|------|------------|
-| 1 | Kwek Chee Ling | 23080328 |
-| 2 | Teoh En Xi | 24004582 |
-| 3 | Mah Kah Mun | 24004590 |
-| 4 | Gianina Lazaroo | 24066775 |
-| 5 | Lee Shian Peng | 23104094 |
+| No | Name |
+|----|------|
+| 1 | Kwek Chee Ling |
+| 2 | Teoh En Xi | 
+| 3 | Mah Kah Mun | 
+| 4 | Gianina Lazaroo | 
+| 5 | Lee Shian Peng | 
 
 ---
 
